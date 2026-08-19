@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+langchain-ollama
+langchain-community
+pydantic
+hubspot-api-client
+duckduckgo-search
+python-dotenv
